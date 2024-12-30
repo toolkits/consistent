@@ -1,7 +1,7 @@
 package rings
 
 import (
-	consistent "github.com/game1991/consistent"
+	consistent "github.com/toolkits/consistent"
 )
 
 // 一致性哈希环,用于管理服务器节点.

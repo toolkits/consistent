@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/game1991/consistent"
+	"github.com/toolkits/consistent"
 )
 
 func ExampleNew() {
