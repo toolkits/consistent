@@ -5,9 +5,10 @@
 package consistent_test
 
 import (
-	"../consistent"
 	"fmt"
 	"log"
+
+	"github.com/toolkits/consistent"
 )
 
 func ExampleNew() {
